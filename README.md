@@ -53,7 +53,7 @@ This Power BI dashboard provides an interactive and insightful overview of sales
 
 ---
 
-## 📊
+## 
 📊 [View the Live Cookie Bliss Dashboard](https://app.powerbi.com/groups/me/reports/888012b6-f059-4e66-8d86-69fb7dd97003/bbee53950320d2b5109d?experience=power-bi)
 
 
